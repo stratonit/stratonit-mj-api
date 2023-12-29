@@ -1,5 +1,5 @@
 {
-    "name": "stratonit/mj-api",
+    "name": "stratonit/stratonit-mj-api",
     "description": "Генерим картинки в MJ6.",
     "keywords": ["midjourney", "midjourney-bot", "midjourney-api-bot"],
     "license": "MIT",
@@ -17,5 +17,6 @@
     "require": {
         "php": "^8.2",
         "guzzlehttp/guzzle": "^7.5"
-    }
+    },
+    "version":"1.0.0"
 }
