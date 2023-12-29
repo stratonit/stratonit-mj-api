@@ -1,0 +1,21 @@
+{
+    "name": "stratonit/mj-api",
+    "description": "Генерим картинки в MJ6.",
+    "keywords": ["midjourney", "midjourney-bot", "midjourney-api-bot"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\Core": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "My name Slim Team",
+            "email": "no@mail.slim"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
